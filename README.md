@@ -44,8 +44,8 @@
 
 <br><details> <summary align="center"> </samp></summary>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/AsadAnsari1272/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/AsadAnsari1272/main/new.gif" height=340/>
+  <img src="https://raw.githubusercontent.com/AsadAnsari1272/AsadAnsari1272/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/AsadAnsari1272/AsadAnsari1272/main/new.gif" height=340/>
 </p></details>
  
 
